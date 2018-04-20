@@ -21,8 +21,8 @@ class Author
     @@song_count +=1
   end
 
-  def songs
-    @songs
+  def posts
+    @posts
   end
 
   def self.song_count
